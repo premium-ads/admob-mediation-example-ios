@@ -1,6 +1,6 @@
-# iOS AdMob Demo with PremiumAds Adapter
+# iOS App Demo with PremiumAds Adapter
 
-This is a simple iOS demo project demonstrating how to integrate **PremiumAds AdMob Adapter** into your app using **Google AdMob Mediation**.
+This is a simple iOS demo project demonstrating how to integrate **PremiumAds Adapter** into your app using **Google AdMob Mediation**.
 
 ## 🚀 Features
 
